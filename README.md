@@ -1,4 +1,4 @@
-# **Sistema web para la gestión de inventario en ECS Electrotelecom**
+# **Inventory Management System**
 This repository contains the source code for the project:
 
 Web-Based Inventory Management System for ECS Electrotelecom – Automated Administration of Technological Resources
