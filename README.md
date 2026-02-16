@@ -5,6 +5,7 @@ Web-Based Inventory Management System for ECS Electrotelecom – Automated Admin
 J. Castro
 
 This project was developed as part of the Final Graduation Project at Universidad Estatal a Distancia (UNED), Costa Rica.
+
 ---
 
 ## Project Overview
@@ -51,3 +52,4 @@ Security was a key focus during development. The system includes:
 - Sensitive data encryption
 - CORS configuration for secure cross-origin communication
 - Secure environment variable management
+
